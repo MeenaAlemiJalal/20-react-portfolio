@@ -3,6 +3,7 @@ This app is a simple react version of my portfolio projects. It is bootstraped w
 
 
 ### Live URL
+https://react-portfolio-meena.herokuapp.com/
 
 
 ### Screenshot
