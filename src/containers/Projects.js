@@ -50,6 +50,14 @@ const projects = [
     repo: "https://github.com/MeenaAlemiJalal/17-Challenge-PWA",
     live: "https://budgetar.herokuapp.com/",
   },
+  {
+    id: 7,
+    title: "Lets Chat",
+    languages: "express, Gql, css, js, mongodb",
+    image: "/images/lets-chat.png",
+    repo: "https://github.com/ebtaterbug/lets-chat",
+    live: "https://vast-temple-57974.herokuapp.com/",
+  },
 ];
 
 function Projects() {
